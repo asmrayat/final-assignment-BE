@@ -144,9 +144,3 @@ app.get("/about", (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/asmrayat/final-assignment-BE.git
-git push -u origin main
